@@ -15,6 +15,7 @@ My name is Artem and I'm a software engineer · **`I code whatever gets the job 
 <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/styled_components-000000?style=for-the-badge&logo=styledcomponents&logoColor=white" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/material_ui-000000?style=for-the-badge&logo=mui&logoColor=white" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=white" /></a>
@@ -23,6 +24,7 @@ My name is Artem and I'm a software engineer · **`I code whatever gets the job 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+<a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vitest-000000?style=for-the-badge&logo=vitest&logoColor=white" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
@@ -31,10 +33,10 @@ My name is Artem and I'm a software engineer · **`I code whatever gets the job 
 
 </p>
 
-#### My Contacts: 
-<a href="https://t.me/turbo_archy">
-  <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+#### Contacts: 
+ <a href="https://t.me/turbo_archy"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:archydemon1@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <!--
 **Artem-WebDeveloper/Artem-WebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
