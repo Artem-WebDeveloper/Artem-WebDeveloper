@@ -31,6 +31,11 @@ My name is Artem and I'm a software engineer · **`I code whatever gets the job 
 
 </p>
 
+#### My Contacts: 
+<a href="https://t.me/turbo_archy">
+  <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
 <!--
 **Artem-WebDeveloper/Artem-WebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
