@@ -26,7 +26,6 @@ My name is Artem and I'm a software engineer · **`I code whatever gets the job 
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vitest-000000?style=for-the-badge&logo=vitest&logoColor=white" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white" /></a>
